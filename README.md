@@ -1,3 +1,8 @@
+<img width="1051" height="667" alt="C++ Project on Tic Tac Toe" src="https://github.com/user-attachments/assets/3fa0fb33-c2c3-48fa-ad24-b5169313546d" />
+<img width="1051" height="667" alt="C++ Project on Tic Tac Toe" src="https://github.com/user-attachments/assets/e56ca811-d4db-4a4b-b706-7afa06719ec1" />
+
+[Day 1 Idea Submission on Tic Tac Toe - Nevin.docx](https://github.com/user-attachments/files/27105050/Day.1.Idea.Submission.on.Tic.Tac.Toe.-.Nevin.docx)
+<img width="1051" height="667" alt="C++ Project on Tic Tac Toe" src="https://github.com/user-attachments/assets/6a228f74-cc28-4a1d-b13f-bc27ba4b0d70" />
 Tic Tac Toe AI Game (C++) - Final
 Name: Nevin Pinto
 Email: pintonevin@gmail.com
